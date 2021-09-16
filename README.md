@@ -2,7 +2,7 @@
 - 👀 I’m interested in making discord bots
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on discord bots
-- 📫 How to reach me Brixkz2neat#2252 on discord
+- 📫 Reach me @brixkzyy#2055 on discord
 
 <!---
 2icyy/2icyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
